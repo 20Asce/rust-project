@@ -1,0 +1,47 @@
+li{
+    list-style-type: none;
+    
+}
+.navbar-con{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ullullu{
+    display: flex;
+    column-gap: 30px;
+    padding: 10px;
+}
+a{
+    color: black;
+}
+.brand-name{
+    font-style: italic;
+    font-size: 4rem;
+    font-weight: bold;
+}
+.qaz{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.but{
+    display: flex;
+    flex-direction:column ;
+}
+.but:hover{
+    border: 1px solid black;
+}
+.tur{
+    background-color: orange;
+    height: 75px;
+    width: 250px;
+    font-weight: bolder;
+    border-color:orange;
+    font-size: 1.25rem;
+}
+#abc{
+    font: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
